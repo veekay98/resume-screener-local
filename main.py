@@ -19,7 +19,7 @@ DB_CONFIG = {
     "port": "5432",
 }
 
-openai.api_key = "sk-proj-k81GO72YdbeWbZNhBSvjT3BlbkFJJePV02EHlmLfYayIRQ47"
+openai.api_key = "xxxx"
 
 # Load NLP Models
 # nlp = spacy.load("en_core_web_sm")
