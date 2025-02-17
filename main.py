@@ -14,7 +14,7 @@ app = Flask(__name__)
 DB_CONFIG = {
     "dbname": "postgres",
     "user": "postgres",
-    "password": "rutgers1234",
+    "password": "xxxx",
     "host": "resume-screener-db.cd2ysagkm5vw.ap-southeast-2.rds.amazonaws.com",
     "port": "5432",
 }
